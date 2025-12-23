@@ -1,4 +1,4 @@
-const ADMIN_PASSWORD = "admin123"; // ganti password kamu
+const ADMIN_PASSWORD = "bayardulu"; // ganti password kamu
 
 // SIMPAN CONFESS
 function saveConfess() {
